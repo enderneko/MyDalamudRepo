@@ -42,4 +42,28 @@
     "DownloadLinkTesting": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=NamePlateDebuffs&isUpdate=False&isTesting=True&branch=master",
     "DownloadLinkUpdate": "https://raw.githubusercontent.com/goatcorp/DalamudPlugins/master/plugins/NamePlateDebuffs/latest.zip"
   },
+    {
+    "Author": "Avaflow",
+    "Name": "TabTab",
+    "Description": "Customise the behaviour of tab targeting. Use /ptab to open configuration.",
+    "InternalName": "TabTab",
+    "AssemblyVersion": "1.0.1.0",
+    "RepoUrl": "https://github.com/avafloww/TabTab",
+    "ApplicableVersion": "any",
+    "DalamudApplicableVersion": "any",
+    "DalamudApiLevel": "3",
+    "Tags": [
+      "tab",
+      "target",
+      "custom"
+    ],
+    "IsHide": "False",
+    "DownloadCount": 0,
+    "TestingAssemblyVersion": "1.0.1.0",
+    "IsTestingExclusive": "True",
+    "LastUpdate": "1618383582",
+    "DownloadLinkInstall": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=TabTab&isUpdate=False&isTesting=True&branch=master",
+    "DownloadLinkTesting": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=TabTab&isUpdate=False&isTesting=True&branch=master",
+    "DownloadLinkUpdate": "https://raw.githubusercontent.com/goatcorp/DalamudPlugins/master/plugins/TabTab/latest.zip"
+  },
 ]
