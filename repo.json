@@ -42,7 +42,7 @@
     "DownloadLinkTesting": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=NamePlateDebuffs&isUpdate=False&isTesting=True&branch=master",
     "DownloadLinkUpdate": "https://raw.githubusercontent.com/goatcorp/DalamudPlugins/master/plugins/NamePlateDebuffs/latest.zip"
   },
-    {
+  {
     "Author": "Avaflow",
     "Name": "TabTab",
     "Description": "Customise the behaviour of tab targeting. Use /ptab to open configuration.",
@@ -65,5 +65,27 @@
     "DownloadLinkInstall": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=TabTab&isUpdate=False&isTesting=True&branch=master",
     "DownloadLinkTesting": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=TabTab&isUpdate=False&isTesting=True&branch=master",
     "DownloadLinkUpdate": "https://raw.githubusercontent.com/goatcorp/DalamudPlugins/master/plugins/TabTab/latest.zip"
+  },
+  {
+    "Author": "Haplo064",
+    "Name": "Where's WOLdo",
+    "InternalName": "WOLdo",
+    "Description": "Text overlay of current location name.",
+    "Tags": [
+      "Location",
+      "UI",
+      "Overlay"
+    ],
+    "RepoUrl": "https://github.com/Haplo064/WheresWOLdo",
+    "AssemblyVersion": "1.2.0.0",
+    "ApplicableVersion": "any",
+    "DalamudApiLevel": 3,
+    "IsHide": "False",
+    "IsTestingExclusive": "False",
+    "DownloadCount": 6802,
+    "LastUpdate": "1618376934",
+    "DownloadLinkInstall": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=WOLdo&isUpdate=False&isTesting=False&branch=master",
+    "DownloadLinkTesting": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=WOLdo&isUpdate=False&isTesting=True&branch=master",
+    "DownloadLinkUpdate": "https://raw.githubusercontent.com/goatcorp/DalamudPlugins/master/plugins/WOLdo/latest.zip"
   },
 ]
