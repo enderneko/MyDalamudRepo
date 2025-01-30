@@ -1,82 +1,30 @@
 [
   {
-    "Author": "aers",
-    "Name": "NamePlateDebuffs",
-    "InternalName": "NamePlateDebuffs",
-    "AssemblyVersion": "0.5.0.0",
-    "Description": "Displays your debuffs on enemy nameplates.",
-    "ApplicableVersion": "any",
-    "RepoUrl": "https://github.com/aers/NamePlateDebuffs",
-    "DalamudApiLevel": 4,
-    "LoadPriority": 0,
-    "IsHide": "False",
-    "IsTestingExclusive": "False",
-    "DownloadCount": 0,
-    "CategoryTags": [
-      "UI",
-      "jobs"
-    ],
-    "LastUpdate": "1633269106",
-    "DownloadLinkInstall": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=NamePlateDebuffs&isUpdate=False&isTesting=False&branch=api4",
-    "DownloadLinkTesting": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=NamePlateDebuffs&isUpdate=False&isTesting=True&branch=api4",
-    "DownloadLinkUpdate": "https://raw.githubusercontent.com/goatcorp/DalamudPlugins/master/plugins/NamePlateDebuffs/latest.zip"
-  },
-  {
-    "Author": "Ottermandias",
-    "Name": "GatherBuddy",
-    "Punchline": "Simplify Gathering and Fishing.",
-    "Description": "Adds commands to simplify gathering by finding nodes and fish and their locations via item name and a UI to keep track of special uptime and weather conditions.",
+    "Author": "jukka",
+    "Name": "NecroLens",
+    "Punchline": "A true Necromancer always know the DeepDungeon ... everyone else just uses a high tech!",
+    "Description": "DeepDungeon Helper. Radar for Mobs, Aggro, Sight and everything else.",
     "Tags": [
-      "Gathering",
-      "Fishing",
-      "Miner",
-      "Botanist",
-      "Weather",
-      "Alarms",
-      "Timer"
+      "potd",
+      "hoh",
+      "eo",
+      "esp",
+      "radar",
+      "sonar",
+      "deep",
+      "dungeon"
     ],
-    "InternalName": "GatherBuddy",
-    "AssemblyVersion": "2.1.0.4",
-    "RepoUrl": "https://github.com/Ottermandias/GatherBuddy",
+    "InternalName": "NecroLens",
+    "RepoUrl": "https://github.com/Jukkales/NecroLens",
+    "DownloadLinkInstall": "https://raw.githubusercontent.com/enderneko/MyDalamudRepo/master/plugins/NecroLens/1.0.7.12.zip",
+    "DownloadLinkUpdate": "https://raw.githubusercontent.com/enderneko/MyDalamudRepo/master/plugins/NecroLens/1.0.7.12.zip",
+    "AssemblyVersion": "1.0.7.12",
     "ApplicableVersion": "any",
-    "DalamudApiLevel": 4,
-    "LoadPriority": 0,
-    "ImageUrls": null,
-    "IconUrl": "https://raw.githubusercontent.com/Ottermandias/GatherBuddy/main/images/icon.png",
-    "IsHide": "False",
-    "IsTestingExclusive": "False",
-    "DownloadCount": 13281,
-    "CategoryTags": [
-      "jobs"
-    ],
-    "LastUpdate": "1633636989",
-    "DownloadLinkInstall": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=GatherBuddy&isUpdate=False&isTesting=False&branch=api4",
-    "DownloadLinkTesting": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=GatherBuddy&isUpdate=False&isTesting=True&branch=api4",
-    "DownloadLinkUpdate": "https://raw.githubusercontent.com/goatcorp/DalamudPlugins/master/plugins/GatherBuddy/latest.zip"
-  },
-  {
-    "Author": "ocealot",
-    "Name": "JobBars",
-    "Punchline": "Extra job gauges",
-    "Description": "Additional job gauges, party buff timers, mitigation trackers, and more. Icon by PAPACHIN",
-    "InternalName": "JobBars",
-    "AssemblyVersion": "1.1.1.0",
-    "Tags": [
-      "UI",
-      "Bars"
-    ],
-    "RepoUrl": "https://github.com/0ceal0t/JobBars",
-    "ApplicableVersion": "any",
-    "DalamudApiLevel": 4,
-    "IsHide": "False",
-    "IsTestingExclusive": "False",
-    "DownloadCount": 0,
-    "CategoryTags": [
-      "jobs"
-    ],
-    "LastUpdate": "1633904500",
-    "DownloadLinkInstall": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=JobBars&isUpdate=False&isTesting=False&branch=api4",
-    "DownloadLinkTesting": "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=JobBars&isUpdate=False&isTesting=True&branch=api4",
-    "DownloadLinkUpdate": "https://raw.githubusercontent.com/goatcorp/DalamudPlugins/master/plugins/JobBars/latest.zip"
-  },
+    "DalamudApiLevel": "10",
+    "Changelog": "",
+    "IconUrl": "https://s3.puni.sh/media/plugin/53/icon-w57fbqqfzwn.png",
+    "ImageUrls": [
+      "https://s3.puni.sh/media/plugin/53/image-lfoiry0hm9.png"
+    ]
+  }
 ]
