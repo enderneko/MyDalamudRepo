@@ -15,13 +15,12 @@
       "dungeon"
     ],
     "InternalName": "NecroLens",
-    "RepoUrl": "https://github.com/Jukkales/NecroLens",
-    "DownloadLinkInstall": "https://raw.githubusercontent.com/enderneko/MyDalamudRepo/main/plugins/NecroLens/1.0.7.12.zip",
-    "DownloadLinkUpdate": "https://raw.githubusercontent.com/enderneko/MyDalamudRepo/main/plugins/NecroLens/1.0.7.12.zip",
     "AssemblyVersion": "1.0.7.12",
     "ApplicableVersion": "any",
     "DalamudApiLevel": "10",
-    "Changelog": "",
+    "RepoUrl": "https://github.com/Jukkales/NecroLens",
+    "DownloadLinkInstall": "https://raw.githubusercontent.com/enderneko/MyDalamudRepo/main/plugins/NecroLens/1.0.7.12.zip",
+    "DownloadLinkUpdate": "https://raw.githubusercontent.com/enderneko/MyDalamudRepo/main/plugins/NecroLens/1.0.7.12.zip",
     "IconUrl": "https://s3.puni.sh/media/plugin/53/icon-w57fbqqfzwn.png",
     "ImageUrls": [
       "https://s3.puni.sh/media/plugin/53/image-lfoiry0hm9.png"
@@ -34,14 +33,26 @@
     "InternalName": "LMeter",
     "AssemblyVersion": "0.4.1.4",
     "TestingAssemblyVersion": "0.4.1.4",
-    "RepoUrl": "https://github.com/lichie567/LMeter",
     "ApplicableVersion": "any",
     "DalamudApiLevel": 10,
-    "IsHide": "False",
-    "IsTestingExclusive": "False",
     "LoadPriority": 69420,
+    "RepoUrl": "https://github.com/lichie567/LMeter",
     "DownloadLinkInstall": "https://raw.githubusercontent.com/enderneko/MyDalamudRepo/main/plugins/LMeter/0.4.1.3.zip",
     "DownloadLinkUpdate": "https://raw.githubusercontent.com/enderneko/MyDalamudRepo/main/plugins/LMeter/0.4.1.3.zip",
     "IconUrl": "https://raw.githubusercontent.com/lichie567/LMeter/main/LMeter/Media/Images/icon.png"
+  },
+  {
+    "Author": "Windmourn",
+    "Name": "SkipCutscene",
+    "Punchline": "Help you skip cutscene from Duty Roulette: Main Scenario.",
+    "Description": "A plugin which could help you skip cutscene from Duty Roulette: Main Scenario.",
+    "Tags": [ "utility" ],
+    "InternalName": "SkipCutscene",
+    "AssemblyVersion": "1.2.2.5",
+    "ApplicableVersion": "any",
+    "DalamudApiLevel": 11,
+    "RepoUrl": "https://github.com/a08381/Dalamud.SkipCutscene",
+    "DownloadLinkInstall": "https://raw.githubusercontent.com/enderneko/MyDalamudRepo/main/plugins/SkipCutscene/1.2.2.5.zip",
+    "DownloadLinkUpdate": "https://raw.githubusercontent.com/enderneko/MyDalamudRepo/main/plugins/SkipCutscene/1.2.2.5.zip"
   }
 ]
