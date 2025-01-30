@@ -26,5 +26,22 @@
     "ImageUrls": [
       "https://s3.puni.sh/media/plugin/53/image-lfoiry0hm9.png"
     ]
+  },
+  {
+    "Author": "Lichie",
+    "Name": "LMeter",
+    "Description": "Plugin to display ACT combat log data.",
+    "InternalName": "LMeter",
+    "AssemblyVersion": "0.4.1.4",
+    "TestingAssemblyVersion": "0.4.1.4",
+    "RepoUrl": "https://github.com/lichie567/LMeter",
+    "ApplicableVersion": "any",
+    "DalamudApiLevel": 10,
+    "IsHide": "False",
+    "IsTestingExclusive": "False",
+    "LoadPriority": 69420,
+    "DownloadLinkInstall": "https://raw.githubusercontent.com/enderneko/MyDalamudRepo/main/plugins/LMeter/0.4.1.3.zip",
+    "DownloadLinkUpdate": "https://raw.githubusercontent.com/enderneko/MyDalamudRepo/main/plugins/LMeter/0.4.1.3.zip",
+    "IconUrl": "https://raw.githubusercontent.com/lichie567/LMeter/main/LMeter/Media/Images/icon.png"
   }
 ]
