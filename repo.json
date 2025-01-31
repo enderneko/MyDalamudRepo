@@ -69,5 +69,28 @@
 		"DownloadLinkInstall": "https://raw.githubusercontent.com/enderneko/MyDalamudRepo/main/plugins/Lemegeton/1.0.4.8.zip",
 		"DownloadLinkUpdate": "https://raw.githubusercontent.com/enderneko/MyDalamudRepo/main/plugins/Lemegeton/1.0.4.8.zip",
     "IconUrl": "https://raw.githubusercontent.com/paissaheavyindustries/Dalamud-Repo/main/icons/lemegeton.png"
-	}
+	},
+  {
+    "Author": "LeonBlade",
+    "Name": "Burning Down the House",
+    "Description": "Move around housing items with coordinates and allows you to place anywhere.",
+    "Punchline": "House decorating made easy!",
+    "InternalName": "BDTHPlugin",
+    "AssemblyVersion": "1.6.6",
+    "ApplicableVersion": "any",
+    "Tags": [
+      "bdth",
+      "housing",
+      "float",
+      "place",
+      "glitch",
+      "furnishing",
+      "LeonBlade"
+    ],
+    "DalamudApiLevel": 10,
+    "RepoUrl": "https://github.com/LeonBlade/BDTHPlugin",
+    "DownloadLinkInstall": "https://raw.githubusercontent.com/enderneko/MyDalamudRepo/main/plugins/BDTHPlugin/1.6.6.zip",
+    "DownloadLinkUpdate": "https://raw.githubusercontent.com/enderneko/MyDalamudRepo/main/plugins/BDTHPlugin/1.6.6.zip",
+    "IconUrl": "https://github.com/LeonBlade/BDTHPlugin/raw/main/icon.png"
+  }
 ]
