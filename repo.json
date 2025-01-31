@@ -112,5 +112,21 @@
     "DownloadLinkInstall": "https://raw.githubusercontent.com/enderneko/MyDalamudRepo/main/plugins/MakePlacePlugin/3.6.3.zip",
     "DownloadLinkUpdate": "https://raw.githubusercontent.com/enderneko/MyDalamudRepo/main/plugins/MakePlacePlugin/3.6.3.zip",
     "IconUrl": "https://raw.githubusercontent.com/jawslouis/MakePlacePlugin/master/icon.png"
-  }
+  },
+  {
+		"Author": "Paissa Heavy Industries",
+		"Name": "Telesto",
+		"Description": "This plugin allows Triggernometry (and other programs, why not) some means to interact with the game directly.",
+		"InternalName": "Telesto",
+		"AssemblyVersion": "1.0.0.4",
+		"ApplicableVersion": "any",
+		"Tags": [
+      "telesto", "prrp", "trigger", "triggernometry", "meow"
+		],
+		"DalamudApiLevel": 10,
+    "RepoUrl": "https://github.com/paissaheavyindustries/Telesto",
+		"DownloadLinkInstall": "https://raw.githubusercontent.com/enderneko/MyDalamudRepo/main/plugins/Telesto/1.0.0.4.zip",
+		"DownloadLinkUpdate": "https://raw.githubusercontent.com/enderneko/MyDalamudRepo/main/plugins/Telesto/1.0.0.4.zip",
+    "IconUrl": "https://raw.githubusercontent.com/paissaheavyindustries/Dalamud-Repo/main/icons/telesto.png"
+	}
 ]
