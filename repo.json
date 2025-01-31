@@ -92,5 +92,25 @@
     "DownloadLinkInstall": "https://raw.githubusercontent.com/enderneko/MyDalamudRepo/main/plugins/BDTHPlugin/1.6.6.zip",
     "DownloadLinkUpdate": "https://raw.githubusercontent.com/enderneko/MyDalamudRepo/main/plugins/BDTHPlugin/1.6.6.zip",
     "IconUrl": "https://github.com/LeonBlade/BDTHPlugin/raw/main/icon.png"
+  },
+  {
+    "Author": "Jawslouis",
+    "Name": "MakePlace Plugin",
+    "InternalName": "MakePlacePlugin",
+    "Punchline": "Automatically save & load furniture layouts in your house.",
+    "Description": "Automatically save & load the positions of house furniture. Import/export layouts from the MakePlace program.",
+    "AssemblyVersion": "3.6.3",
+    "ApplicableVersion": "any",
+    "Tags": [
+      "makeplace",
+      "housing",
+      "furniture",
+      "jawslouis"
+    ],
+    "DalamudApiLevel": 10,
+    "RepoUrl": "https://github.com/jawslouis/MakePlacePlugin",
+    "DownloadLinkInstall": "https://raw.githubusercontent.com/enderneko/MyDalamudRepo/main/plugins/MakePlacePlugin/3.6.3.zip",
+    "DownloadLinkUpdate": "https://raw.githubusercontent.com/enderneko/MyDalamudRepo/main/plugins/MakePlacePlugin/3.6.3.zip",
+    "IconUrl": "https://raw.githubusercontent.com/jawslouis/MakePlacePlugin/master/icon.png"
   }
 ]
